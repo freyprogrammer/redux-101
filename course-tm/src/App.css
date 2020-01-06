@@ -2,3 +2,7 @@
   margin: 30px;
   text-align: left;
 }
+
+.post-from {
+  border-bottom: 5px solid gray;
+}
